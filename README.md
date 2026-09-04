@@ -30,4 +30,5 @@ The JavaScript `Date` object gets the current time. The `getHours()`, `getMinute
 
 ## 🎯 Outcome
 
-A functional digital clock webpage that displays the current time and updates automatically every second.
+A functional digital clock webpage that displays the current time and updates automatically every second.          
+                                                                                                                                                                              
